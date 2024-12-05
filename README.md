@@ -1,6 +1,6 @@
-# Testing Your Django Distributed System
+# Testing  Django Distributed System
 
-Follow this guide to test your Django application and ensure the task is completed successfully.
+Follow this guide to test Django application and ensure the task is completed successfully.
 
 ## Access SQLite Databases
 
